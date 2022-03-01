@@ -15,3 +15,17 @@ This advanced course is complemented by these lab sessions to guide students thr
 |  | Coin toss experiment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srossi93/asi-labs/blob/master/lab_week1-public/Coin_Toss_Experiment.ipynb)|
 
 ### [Advanced] Local Jupyter
+
+Note: choose this option only if you know what you are doing. 
+You can clone the development environment using Conda (installation guide [here](https://docs.conda.io/en/latest/miniconda.html)), by running
+```shell
+> conda env create --file=environment.yml
+```
+Once the installation has completed, you can activate the new environment with 
+```shell
+> conda activate asi
+```
+Finally launch Jupyter Lab with 
+```shell
+> jupyter lab 
+```
