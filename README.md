@@ -13,6 +13,7 @@ This advanced course is complemented by these lab sessions to guide students thr
 | **Week 0** | Introduction to Python/Numpy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srossi93/asi-labs/blob/master/lab_week0-public/Tutorial_Python.ipynb)|
 | **Week 1** | Bayesian linear regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srossi93/asi-labs/blob/master/lab_week1-public/Bayesian_Linear_Regression.ipynb)|
 |  | Coin toss experiment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srossi93/asi-labs/blob/master/lab_week1-public/Coin_Toss_Experiment.ipynb)|
+| **Week 2** | Gaussian processes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srossi93/asi-labs/blob/master/lab_week2-public/Gaussian_Process_Regression.ipynb)|
 
 ### [Advanced] Local Jupyter
 
