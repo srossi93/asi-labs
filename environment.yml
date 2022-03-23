@@ -1,4 +1,4 @@
-name: asi
+name: asi_env
 channels:
   - defaults
 dependencies:
