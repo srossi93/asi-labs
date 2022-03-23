@@ -126,6 +126,7 @@ dependencies:
     - tomli==2.0.0
     - tornado==6.1
     - traitlets==5.1.1
+    - tqdm==4.63.0
     - typing-extensions==4.0.1
     - urllib3==1.26.8
     - wcwidth==0.2.5
